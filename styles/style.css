@@ -1,0 +1,29 @@
+body {
+
+    background-color: #F3F1FF;
+}
+
+.navbar img {
+
+    width: 40px;
+
+}
+
+.nav-link {
+    margin-left: 20px;
+    gap: 30px;
+
+}
+
+.navbar-text {
+    margin-left: 20px;
+    gap: 30px;
+}
+
+.profile-pic {
+    margin-right: 80px;
+}
+
+.player img {
+    width: 30px;
+}
