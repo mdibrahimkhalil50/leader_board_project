@@ -18,6 +18,11 @@ main {
 
 }
 
+.pl-5 {
+    margin-left: 10px;
+    font-weight: bold;
+
+}
 
 .player img {
     width: 56px;
